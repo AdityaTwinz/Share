@@ -4,6 +4,8 @@
 
 <h3 align="center">Share Postingan Facebook Via Graph</h3>
 
+[![AdityaTwinz](https://github.com/AdityaTwinz/Share/blob/main/images/Logo%20Jalanan%20Glitch%20Hitam.png)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+
 #### Install
 
 ```
